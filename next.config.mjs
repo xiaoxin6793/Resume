@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
+  output: 'exporte',
   trailingSlash: true,
   typescript: {
     ignoreBuildErrors: true,
